@@ -1,0 +1,323 @@
+.normal {
+    background-color: #767a7c;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-normal {
+    background-color: #a4acaf;
+}
+.card-stats-bgImg-normal{
+    background-image: url(../assets/icons/normal.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.fire {
+    background-color: #f96a03;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-fire {
+    background-color: #fd7d24;
+}
+.card-stats-bgImg-fire{
+    background-image: url(../assets/icons/fire.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.water {
+    background-color: #0779c5;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-water {
+    background-color: #4592c4;
+}
+.card-stats-bgImg-water{
+    background-image: url(../assets/icons/water.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.grass {
+    background-color: #72ba06;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-grass {
+    background-color: #9bcc50;
+}
+.card-stats-bgImg-grass{
+    background-image: url(../assets/icons/grass.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.electric {
+    background-color: #ceb304;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-electric {
+    background-color: #eed535;
+}
+.card-stats-bgImg-electric{
+    background-image: url(../assets/icons/electric.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.ice {
+    background-color: #0ea3d0;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-ice {
+    background-color: #51c4e7;
+}
+.card-stats-bgImg-ice{
+    background-image: url(../assets/icons/ice.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.fighting {
+    background-color: #c24d03;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-fighting {
+    background-color: #d56723;
+}
+.card-stats-bgImg-fighting{
+    background-image: url(../assets/icons/fighting.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.poison {
+    background-color: #a957c0;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-poison {
+    background-color: #b97fc9;
+}
+.card-stats-bgImg-poison{
+    background-image: url(../assets/icons/poison.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.ground {
+    background: linear-gradient(180deg, #e6cc26 50%, #8e7c2d 50%);
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-ground {
+    background-color: #ab9842;
+}
+.card-stats-bgImg-ground{
+    background-image: url(../assets/icons/ground.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.flying {
+    background: linear-gradient(180deg, #24b1d7 50%, #bdb9b8 50%);
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-flying {
+    background-color: #3dc7ef;
+}
+.card-stats-bgImg-flying{
+    background-image: url(../assets/icons/flying.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.psychic {
+    background: #e42e99;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-psychic {
+    background-color: #f366b9;
+}
+.card-stats-bgImg-psychic{
+    background-image: url(../assets/icons/psychic.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.bug {
+    background: #4e7e18;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-bug {
+    background-color: #729f3f;
+}
+.card-stats-bgImg-bug{
+    background-image: url(../assets/icons/bug.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.rock {
+    background: #83701a;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-rock {
+    background-color: #a38c21;
+}
+.card-stats-bgImg-rock{
+    background-image: url(../assets/icons/rock.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.ghost {
+    background: #584479;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-ghost {
+    background-color: #7b62a3;
+}
+.card-stats-bgImg-ghost{
+    background-image: url(../assets/icons/ghost.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.dark {
+    background: #523e30;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-dark {
+    background-color: #705848;
+}
+.card-stats-bgImg-dark{
+    background-image: url(../assets/icons/dark.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.dragon {
+    background: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-dragon {
+    background-color: #7038f8;
+}
+.card-stats-bgImg-dragon{
+    background-image: url(../assets/icons/dragon.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.steel {
+    background: #6e8485;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-steel {
+    background-color: #9eb7b8;
+}
+.card-stats-bgImg-steel{
+    background-image: url(../assets/icons/steel.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}
+
+.fairy {
+    background: #f86ecf;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+.card-bg-fairy {
+    background-color: #fdb9e9;
+}
+.card-stats-bgImg-fairy{
+    background-image: url(../assets/icons/fairy.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 5px 5px 0;
+}

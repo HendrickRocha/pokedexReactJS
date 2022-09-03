@@ -1,0 +1,36 @@
+div.search-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0 186px;
+}
+
+div div input.search-input {
+    background-color: #ddd;
+    font-size: 1.4rem;
+    margin: 0px;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+    border-top-left-radius: 10px;
+}
+
+
+
+
+div div button.search-btn {
+    color: #fff;
+    font-size: 1.32rem;
+    border: none;
+    background-color: #ed3237;
+    cursor: pointer;
+    outline: none;
+    transform: rotate(180deg);
+    border-bottom-left-radius: 10px;
+}
+
+
+div div button.search-btn:active {
+    background-color: #ed323878;
+}

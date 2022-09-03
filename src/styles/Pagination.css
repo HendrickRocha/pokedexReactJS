@@ -1,0 +1,22 @@
+.pagination-container{
+    display: flex;
+    flex-direction: row;
+    margin: 0 186px 0 auto;
+    color: #212121;
+    background-color: #fff;
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+}
+
+.pagination-btn{
+    color: #fff;
+    font-size: 1.32rem;
+    border: none;
+    background-color: #ed3237;
+    cursor: pointer;
+    outline: none;
+}
+
+.pagination-btn:active {
+    background-color: #ed323878;
+}
