@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pokedexReactJS/static/css/main.9eb72c6a.css",
+    "main.js": "/pokedexReactJS/static/js/main.60d4c03b.js",
+    "static/js/787.7e0b23c5.chunk.js": "/pokedexReactJS/static/js/787.7e0b23c5.chunk.js",
+    "static/media/dragon.svg": "/pokedexReactJS/static/media/dragon.9d32757b191cbbaea8d4.svg",
+    "static/media/fire.svg": "/pokedexReactJS/static/media/fire.e0bd7fcab2121e7ac1ff.svg",
+    "static/media/psychic.svg": "/pokedexReactJS/static/media/psychic.67439878eaa68ee726de.svg",
+    "static/media/fairy.svg": "/pokedexReactJS/static/media/fairy.767c2f5699eb5f1120f1.svg",
+    "static/media/bug.svg": "/pokedexReactJS/static/media/bug.204df919b74456c6dc72.svg",
+    "static/media/rock.svg": "/pokedexReactJS/static/media/rock.61a8428da62eeab93746.svg",
+    "static/media/ice.svg": "/pokedexReactJS/static/media/ice.cd2f90437e3fe39235a9.svg",
+    "static/media/ghost.svg": "/pokedexReactJS/static/media/ghost.ddf268314aed78d0524d.svg",
+    "static/media/flying.svg": "/pokedexReactJS/static/media/flying.d17785038a59f3ce2121.svg",
+    "static/media/fighting.svg": "/pokedexReactJS/static/media/fighting.f20d1bd24f0cde62bb37.svg",
+    "static/media/poison.svg": "/pokedexReactJS/static/media/poison.43956925ad0376b77c7e.svg",
+    "static/media/steel.svg": "/pokedexReactJS/static/media/steel.cb91a92a3b5197e2cf61.svg",
+    "index.html": "/pokedexReactJS/index.html",
+    "static/media/ground.svg": "/pokedexReactJS/static/media/ground.e567f4fc3f3422598757.svg",
+    "static/media/dark.svg": "/pokedexReactJS/static/media/dark.27fdc7ed2bd3294b9838.svg",
+    "static/media/water.svg": "/pokedexReactJS/static/media/water.b6d13329535e4be9e9b4.svg",
+    "static/media/electric.svg": "/pokedexReactJS/static/media/electric.bc35c5a3faf04b605c00.svg",
+    "static/media/grass.svg": "/pokedexReactJS/static/media/grass.e09623e3345d5bf5286f.svg",
+    "static/media/normal.svg": "/pokedexReactJS/static/media/normal.2ba66dd583ebf70eb414.svg",
+    "main.9eb72c6a.css.map": "/pokedexReactJS/static/css/main.9eb72c6a.css.map",
+    "main.60d4c03b.js.map": "/pokedexReactJS/static/js/main.60d4c03b.js.map",
+    "787.7e0b23c5.chunk.js.map": "/pokedexReactJS/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb72c6a.css",
+    "static/js/main.60d4c03b.js"
+  ]
+}
